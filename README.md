@@ -15,3 +15,14 @@ noahohayon@salt-community.com
 This is licensed by:
 Creative Commons Attribution-NonCommercial 4.0 International License
 For more information go to [LICENSE](https://github.com/nono819819/The-U-Dimension-Model/blob/main/LICENSE)
+
+## Changelog
+### v1.0.0 — 2026-08-02
+#### Added
+- Initial release of the U-Dimension Model.
+- Introduced the universe coordinate (u).
+- Defined universes at integer values of u.
+- Introduced the zero-volume void between universes.
+- Defined independent timelines for each universe.
+- Defined matter conservation during universe transfer.
+- Introduced the concept of infinite universes.
