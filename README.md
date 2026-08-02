@@ -1,6 +1,6 @@
 # The U-Dimension Model
 
-![Version](https://img.shields.io/badge/version-v1.1.0-blue)
+![Version](https://img.shields.io/badge/version-v1.1.1-blue)
 ![Status](https://img.shields.io/badge/status-Speculative-orange)
 ![License](https://img.shields.io/badge/license-CC--BY--NC--4.0-green)
 
