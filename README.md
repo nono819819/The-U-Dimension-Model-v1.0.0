@@ -1,5 +1,7 @@
 # The-U-Dimension-Model
 
+Note: This is an original speculative model created for exploration and discussion. It is not an accepted scientific theory and has not been experimentally verified.
+
 ## Info
 This model does not have theoretical evidence and is just a hypothesis. If you can find evidence let me know.
 This model was developed by Noah Ohayon, an ordinary 5th grader who likes coding (python), computer stuff, and software development. He is good at math and science.
