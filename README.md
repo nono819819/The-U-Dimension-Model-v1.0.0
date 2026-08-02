@@ -13,7 +13,7 @@ The model essay was created by ChatGPT.
 
 ## Contact
 If you get to upgrade, prove, or build on it, contact:
-noahohayon@salt-community.com
+make a pull request.
 
 ## LICENSE
 This is licensed by:
