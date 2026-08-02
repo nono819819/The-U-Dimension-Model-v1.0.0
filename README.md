@@ -1,6 +1,6 @@
 # The U-Dimension Model
 
-![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Version](https://img.shields.io/badge/version-v1.1.0-blue)
 ![Status](https://img.shields.io/badge/status-Speculative-orange)
 ![License](https://img.shields.io/badge/license-CC--BY--NC--4.0-green)
 
@@ -30,3 +30,8 @@ For more information go to [LICENSE](https://github.com/nono819819/The-U-Dimensi
 - Defined independent timelines for each universe.
 - Defined matter conservation during universe transfer.
 - Introduced the concept of infinite universes.
+
+### v1.1.0 — 2026-08-02
+#### Added
+- Initial release of the Diagrams folder.
+- Initial diagram—U-Dimension and Void.png
