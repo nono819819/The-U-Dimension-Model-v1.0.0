@@ -35,3 +35,7 @@ For more information go to [LICENSE](https://github.com/nono819819/The-U-Dimensi
 #### Added
 - Initial release of the Diagrams folder.
 - Initial diagram—U-Dimension and Void.png
+
+### v1.1.1 — 2026-08-02
+#### Fixed
+- Fixed the title to v1.1.0 and then v1.1.1
